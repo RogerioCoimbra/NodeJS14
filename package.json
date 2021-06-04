@@ -1,0 +1,18 @@
+{
+  "name": "nodejs14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "Instalar": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RogerioCoimbra/NodeJS14.git"
+  },
+  "author": "RogerioCoimbra",
+  "bugs": {
+    "url": "https://github.com/RogerioCoimbra/NodeJS14/issues"
+  },
+  "homepage": "https://github.com/RogerioCoimbra/NodeJS14#readme"
+}

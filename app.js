@@ -1,1 +1,2 @@
-console.log("Teste NodeJs!");
+var message = "Teste NodeJs!";
+console.log(message);
