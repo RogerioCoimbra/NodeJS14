@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/RogerioCoimbra/NodeJS14/issues"
   },
-  "homepage": "https://github.com/RogerioCoimbra/NodeJS14#readme"
+  "homepage": "https://github.com/RogerioCoimbra/NodeJS14#readme",
+  "dependencies": {
+    "get-primes": "^1.0.3"
+  }
 }
